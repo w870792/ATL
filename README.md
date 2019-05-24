@@ -3,16 +3,20 @@ ATL: Autonomous Knowledge Transfer from Many Streaming Processes
 
 1. Clone ATL git do your computer, or just download the files.
 
-2. Provide a dataset by replacing the file data.csv
+2. Provide a dataset by replacing the file `data.csv`
+
 	Right now, data.csv here has SEA dataset data. You can open and check by yourself.
-	data.csv must be prepared as following:
+	
+	`data.csv` must be prepared as following:
   
 		- Each row presents a new data sample
 		- Each column presents a data feature
 		- The last column presents the label for that sample. Don't use one-hot encoding.
 
-3. Open Matlab. The code was developed using Matlab 2018b, so if you use an older version, you might get some error. 
+3. Open Matlab. The code was developed using Matlab 2018b, so if you use an older version, you might get some error.
+
 	You can use Matlab 2018b or newer.
+	
 	Matlab may prompt you to install some official add-ons, as:
   
 		- Deep Learning Toolbox
@@ -22,6 +26,7 @@ ATL: Autonomous Knowledge Transfer from Many Streaming Processes
 4. Inside Matlab, travel until the folder where you downloaded ATL.
 
 5. On the Matlab terminal, just type "ATL". This will execute ATL, which will read your data.csv and process it.
+
 	ATL will automatically normalize your data and split your data into 2 streams (Source and Target data streams), with a bias between them.
 
 	Matlab will print ATL status at the end of every minibatch, where you will be able to follow useful information as:
