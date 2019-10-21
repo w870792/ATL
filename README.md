@@ -5,6 +5,7 @@ If you want to access the OPEN source code, follow this link: https://github.com
 # Reference
 
 [ArXiv -> ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://arxiv.org/abs/1910.03434)
+
 [ResearchGate -> ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://www.researchgate.net/publication/336361712_ATL_Autonomous_Knowledge_Transfer_from_Many_Streaming_Processes)
 
 # ATL
