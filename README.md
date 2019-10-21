@@ -1,4 +1,11 @@
+# Source code
+
 If you want to access the OPEN source code, follow this link: https://github.com/Ivsucram/ATL_Matlab
+
+# Reference
+
+[ArXiv -> ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://arxiv.org/abs/1910.03434)
+[ResearchGate -> ATL: Autonomous Knowledge Transfer from Many Streaming Processes](https://www.researchgate.net/publication/336361712_ATL_Autonomous_Knowledge_Transfer_from_Many_Streaming_Processes)
 
 # ATL
 ATL: Autonomous Knowledge Transfer from Many Streaming Processes
@@ -51,6 +58,7 @@ ATL: Autonomous Knowledge Transfer from Many Streaming Processes
 Thank you.
 
 # Download all datasets used on the paper
+
 As some datasets are too big, we can't upload them to GitHub. GitHub as a size limit of 35MB per file. Because of that, you can find all the datasets in a csv format on the anonymous link below.
 To test it, copy the desired dataset to the same folder as ATL and rename it to "data.csv".
 
